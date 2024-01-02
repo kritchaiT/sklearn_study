@@ -1,0 +1,4 @@
+# note
+git remote add origin https://github.com/kritchaiT/sklearn_study.git
+git branch -M main
+git push -u origin main
